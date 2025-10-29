@@ -214,7 +214,7 @@ OAuth2 · Google API Client · Authlib
   <a href="https://github.com/DevLord-Avijit">
     <img src="https://img.shields.io/badge/GitHub-DevLord--Avijit-black?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://twitter.com/AvijitSing39352">
+  <a href="https://twitter.com/DevLord_Avijit">
     <img src="https://img.shields.io/badge/Twitter-AvijitSingh-blue?style=for-the-badge&logo=twitter"/>
   </a>
 </p>
