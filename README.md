@@ -2,17 +2,17 @@
 <h1 align="center"> 👋 Hi, I'm Avijit Singh </h1>
 
 <!-- Sub tagline -->
-<h3 align="center">🚀 Python Developer | Web & Mobile App Enthusiast | Hybrid + Native Developer</h3>
+<h3 align="center">Python Developer | Web & Mobile App Enthusiast | Hybrid + Native Developer</h3>
 
 ---
 
 ## ⚡ About Me  
 
-🔥 Passionate about **Python** for automation, AI, and full-stack apps.  
-🛠️ Skilled in **Flask**, **Firebase**, **API integrations**, and modern frontend.  
-📱 Building **native apps** with `npm + Expo` and **hybrid apps** with `Ionic + Capacitor`.  
-🤖 Always experimenting with **automation, AI assistants, and ML projects**.  
-🌱 Currently exploring **Advanced ML + Mobile Dev + Cloud Deployment**.  
+Passionate about **Python-Flask** for automation, AI, and full-stack apps.  
+Skilled in **Flask**, **Firebase**, **API integrations**, and modern frontend.  
+Building **native apps** with `npm + Expo` and **hybrid apps** with `Ionic + Capacitor`.  
+Always experimenting with **automation, AI assistants, and ML projects**.  
+Currently exploring **Advanced ML + Mobile Dev + Cloud Deployment**.  
 
 ---
 
@@ -65,7 +65,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🐍 Python & Libraries  
+## Python & Libraries  
 
 <p align="center">
   <!-- Core Python -->
@@ -89,7 +89,7 @@
 
 ### Core Python Expertise  
 
-### 🖥️ Web & Automation  
+### Web & Automation  
 🚀 ![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
@@ -97,23 +97,23 @@
 
 ---
 
-### 🧠 AI / ML / CV  
-📊 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) 
+### AI / ML / CV  
+ ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-🖼️ ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) `face-recognition`  
-🧮 `matplotlib` · `seaborn` · `plotly`  
-🔥 Exploring: ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) `face-recognition`  
+`matplotlib` · `seaborn` · `plotly`  
+Exploring: ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) 
 `transformers (HuggingFace)`  
 
 ---
 
-### 📊 Data & Science Stack  
-📚 Data wrangling: `pandas`  
-🧮 Numeric crunching: `numpy`  
-📈 Visualization: `matplotlib`, `seaborn`, `plotly`  
-🤖 ML workflows: `scikit-learn`, `xgboost`, `lightgbm`  
+### Data & Science Stack  
+Data wrangling: `pandas`  
+Numeric crunching: `numpy`  
+Visualization: `matplotlib`, `seaborn`, `plotly`  
+ML workflows: `scikit-learn`, `xgboost`, `lightgbm`  
 
 ---
 
@@ -124,16 +124,16 @@
 ---
 
 ### ☁️ Cloud & Auth  
-☁️ ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
-🔑 ![Google](https://img.shields.io/badge/GoogleAuth-4285F4?style=flat&logo=google&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+![Google](https://img.shields.io/badge/GoogleAuth-4285F4?style=flat&logo=google&logoColor=white)  
 OAuth2 · Google API Client · Authlib  
 
 ---
 
 ### 🛠️ Utilities & Tools  
 ⚡ Async: `asyncio`  
-🛠️ CLI tools, automation scripts  
-📑 File wrangling: `PyPDF2`, `openpyxl`, `python-docx`  
+CLI tools, automation scripts  
+File wrangling: `PyPDF2`, `openpyxl`, `python-docx`  
   
 
 ---
@@ -155,7 +155,7 @@ OAuth2 · Google API Client · Authlib
 
 ---
 
-## 📱 Mobile Development  
+## Mobile Development  
 
 <p align="center">
   <img src="https://ionicframework.com/docs/icons/logo-react-icon.png" height="40"/>
@@ -168,7 +168,7 @@ OAuth2 · Google API Client · Authlib
 
 ---
 
-## 🛠️ Dev Tools & Platforms  
+## Dev Tools & Platforms  
 
 - **Version Control** → Git, GitHub  
 - **Cloud** → Firebase, Render, Vercel  
@@ -177,7 +177,7 @@ OAuth2 · Google API Client · Authlib
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <p align="center">
   <img           src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevLord-Avijit&theme=tokyonight">
@@ -191,7 +191,7 @@ OAuth2 · Google API Client · Authlib
 
 ---
 
-## 📈 Contribution Graph  
+## Contribution Graph  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevLord-Avijit&theme=tokyo-night"/>
@@ -199,7 +199,7 @@ OAuth2 · Google API Client · Authlib
 
 ---
 
-## 🔥 Highlight Projects  
+## Highlight Projects  
 
 - **Key-miners** → GitHub API key scraper + validator  
 - **To-do-list (Flask + Firebase)** → Task manager with OAuth & Email verification  
@@ -208,7 +208,7 @@ OAuth2 · Google API Client · Authlib
 
 ---
 
-## 🌍 Connect with Me  
+##  Connect with Me  
 
 <p align="left">
   <a href="https://github.com/DevLord-Avijit">
