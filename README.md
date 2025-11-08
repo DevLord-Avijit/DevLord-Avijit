@@ -2,11 +2,11 @@
 <h1 align="center"> 👋 Hi, I'm Avijit Singh </h1>
 
 <!-- Sub tagline -->
-<h3 align="center">Python Developer | Web & Mobile App Enthusiast | Hybrid + Native Developer</h3>
+<h3 align="center">Founder of PageoNix | Python Developer | Web & Mobile App Enthusiast | Hybrid + Native Developer</h3>
 
 ---
 
-## ⚡ About Me  
+#⚡ About Me  
 
 Passionate about **Python-Flask** for automation, AI, and full-stack apps.  
 Skilled in **Flask**, **Firebase**, **API integrations**, and modern frontend.  
@@ -24,7 +24,7 @@ Currently exploring **Advanced ML + Mobile Dev + Cloud Deployment**.
 </p>
 
 <!-- Cool ASCII style divider -->
-### Skill Badges
+# Skill Badges
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
@@ -65,7 +65,7 @@ Currently exploring **Advanced ML + Mobile Dev + Cloud Deployment**.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Python & Libraries  
+# Python & Libraries  
 
 <p align="center">
   <!-- Core Python -->
@@ -89,7 +89,7 @@ Currently exploring **Advanced ML + Mobile Dev + Cloud Deployment**.
 
 ### Core Python Expertise  
 
-### Web & Automation  
+# Web & Automation  
 🚀 ![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
@@ -97,7 +97,7 @@ Currently exploring **Advanced ML + Mobile Dev + Cloud Deployment**.
 
 ---
 
-### AI / ML / CV  
+# AI / ML / CV  
  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
@@ -109,7 +109,7 @@ Exploring: ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=fl
 
 ---
 
-### Data & Science Stack  
+# Data & Science Stack  
 Data wrangling: `pandas`  
 Numeric crunching: `numpy`  
 Visualization: `matplotlib`, `seaborn`, `plotly`  
@@ -117,20 +117,20 @@ ML workflows: `scikit-learn`, `xgboost`, `lightgbm`
 
 ---
 
-### 🌐 Networking / APIs  
+# 🌐 Networking / APIs  
 📧 `smtplib` · `imaplib` · `email`  
 📱 `twilio` · `discord.py` · `telethon`  
 
 ---
 
-### ☁️ Cloud & Auth  
+# ☁️ Cloud & Auth  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
 ![Google](https://img.shields.io/badge/GoogleAuth-4285F4?style=flat&logo=google&logoColor=white)  
 OAuth2 · Google API Client · Authlib  
 
 ---
 
-### 🛠️ Utilities & Tools  
+# 🛠️ Utilities & Tools  
 ⚡ Async: `asyncio`  
 CLI tools, automation scripts  
 File wrangling: `PyPDF2`, `openpyxl`, `python-docx`  
@@ -140,7 +140,7 @@ File wrangling: `PyPDF2`, `openpyxl`, `python-docx`
 
 
 
-## 🌐 Web Development Stack  
+# 🌐 Web Development Stack  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
@@ -155,7 +155,7 @@ File wrangling: `PyPDF2`, `openpyxl`, `python-docx`
 
 ---
 
-## Mobile Development  
+# Mobile Development  
 
 <p align="center">
   <img src="https://ionicframework.com/docs/icons/logo-react-icon.png" height="40"/>
@@ -168,7 +168,7 @@ File wrangling: `PyPDF2`, `openpyxl`, `python-docx`
 
 ---
 
-## Dev Tools & Platforms  
+# Dev Tools & Platforms  
 
 - **Version Control** → Git, GitHub  
 - **Cloud** → Firebase, Render, Vercel  
@@ -177,7 +177,7 @@ File wrangling: `PyPDF2`, `openpyxl`, `python-docx`
 
 ---
 
-## GitHub Stats  
+# GitHub Stats  
 
 <p align="center">
   <img           src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevLord-Avijit&theme=tokyonight">
@@ -199,16 +199,16 @@ File wrangling: `PyPDF2`, `openpyxl`, `python-docx`
 
 ---
 
-## Highlight Projects  
+# Highlight Projects  
 
+- **Kuber Mail** → A payment gateway uses IMAP and REGEX, must check out 
 - **Key-miners** → GitHub API key scraper + validator  
-- **To-do-list (Flask + Firebase)** → Task manager with OAuth & Email verification  
-- **Jarvis AI** → Python voice assistant  
+- **LDR** → A ldr based security program built with python
 - **WhatsApp Automation** → Automation script for messaging  
 
 ---
 
-##  Connect with Me  
+#  Connect with Me  
 
 <p align="left">
   <a href="https://github.com/DevLord-Avijit">
