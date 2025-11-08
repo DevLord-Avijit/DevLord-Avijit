@@ -6,7 +6,7 @@
 
 ---
 
-#⚡ About Me  
+# ⚡ About Me  
 
 Passionate about **Python-Flask** for automation, AI, and full-stack apps.  
 Skilled in **Flask**, **Firebase**, **API integrations**, and modern frontend.  
