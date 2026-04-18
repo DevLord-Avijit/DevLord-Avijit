@@ -18,9 +18,9 @@ Currently exploring **Advanced ML + Mobile Dev + Cloud Deployment**.
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevLord-Avijit&label=Profile%20Views&color=blueviolet&style=flat" alt="views"/>
-  <img src="https://img.shields.io/github/followers/DevLord-Avijit?label=Followers&style=social" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/DevLord-Avijit?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=devavijitsingh&label=Profile%20Views&color=blueviolet&style=flat" alt="views"/>
+  <img src="https://img.shields.io/github/followers/devavijitsingh?label=Followers&style=social" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/devavijitsingh?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars"/>
 </p>
 
 <!-- Cool ASCII style divider -->
@@ -180,13 +180,13 @@ File wrangling: `PyPDF2`, `openpyxl`, `python-docx`
 # GitHub Stats  
 
 <p align="center">
-  <img           src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevLord-Avijit&theme=tokyonight">
+  <img           src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devavijitsingh&theme=tokyonight">
 </img> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLord-Avijit&layout=compact&theme=tokyonight" height="165"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devavijitsingh&layout=compact&theme=tokyonight" height="165"/>  
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevLord-Avijit&theme=tokyonight" height="165"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devavijitsingh&theme=tokyonight" height="165"/>  
 </p>
 
 ---
@@ -194,7 +194,7 @@ File wrangling: `PyPDF2`, `openpyxl`, `python-docx`
 ## Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevLord-Avijit&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devavijitsingh&theme=tokyo-night"/>
 </p>
 
 ---
@@ -211,10 +211,10 @@ File wrangling: `PyPDF2`, `openpyxl`, `python-docx`
 #  Connect with Me  
 
 <p align="left">
-  <a href="https://github.com/DevLord-Avijit">
+  <a href="https://github.com/devavijitsingh">
     <img src="https://img.shields.io/badge/GitHub-DevLord--Avijit-black?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://twitter.com/DevLord_Avijit">
+  <a href="https://twitter.com/devavijitsingh">
     <img src="https://img.shields.io/badge/Twitter-AvijitSingh-blue?style=for-the-badge&logo=twitter"/>
   </a>
 </p>
